@@ -20,6 +20,14 @@ Ce projet automatise la recherche d'offres d'emploi et envoie les nouvelles offr
 
 1. Clonez ce dépôt.
 2. Installez les dépendances requises :
-   ```sh
-   pip install requests
-   ```
+    ```sh
+    pip install requests
+    ```
+3. Lancez le script :
+    ```sh
+    python3 main.py
+    ```
+    ou
+    ```sh
+    python main.py
+    ```
